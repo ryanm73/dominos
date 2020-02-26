@@ -1,0 +1,27 @@
+
+.ui.fixed.borderless.menu {
+    background-color:#006491;
+    color: white;
+    height: 80px;
+    text-decoration: none;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+}
+
+.order {
+    color: #006491;
+    box-shadow: none;
+    border: none;
+}
+
+.white {
+    color: white;
+}
